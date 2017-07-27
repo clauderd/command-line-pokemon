@@ -1,0 +1,25 @@
+Lass
+15
+Hey! Are you a pokemon trainer too?  Let's Battle!
+Aww.  My poor pokemon.  How can you be so mean?!
+Is that all you got?
+Bug Catcher
+10
+Hey! Are you catching bugs too?  Let's Fight!
+If I had new pokemon I would've won!
+You should train your pokemon better.  Cya next time, loser.
+Team Rocket
+25
+Prepare for trouble!#Make it double!#Team Rocket, blast off at the speed of light!#Surrender now, or prepare to fight!#Meowth!  That's right!
+Looks like Team Rocket's blasting off again!
+What happens now?#I dunno, we've never won before.
+Brock
+17
+There you are! I've been looking for you everywhere! Let's battle!
+Noooooooooooooooo!
+Haha! Looks like I got stronger!
+Misty
+40
+Its time for payback for stealing my bike twerp!
+First my bike and now my pokemon! You will pay!
+That's what you get! Now scram!
